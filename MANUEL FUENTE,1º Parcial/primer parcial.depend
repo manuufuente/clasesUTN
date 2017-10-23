@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1506993260 source:c:\users\alumno\desktop\ejercicios\primer parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+
+1506993286 c:\users\alumno\desktop\ejercicios\primer parcial\lib.h
+
+1506993293 source:c:\users\alumno\desktop\ejercicios\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1508799918 source:c:\users\alumno\desktop\manuel fuente,1º parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+
+1508799843 c:\users\alumno\desktop\manuel fuente,1º parcial\lib.h
+
+1508799735 source:c:\users\alumno\desktop\manuel fuente,1º parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
